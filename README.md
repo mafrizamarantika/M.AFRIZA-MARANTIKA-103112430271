@@ -24,6 +24,8 @@ int main()
 }
 
 ```
+> Output
+> ![Screenshot bagian x](output/ssguided1.png)
 Program ini menghitung nilai Z dengan rumus (X + Y) / (Y + W).
 Karena kedua operan bertipe int, pembagian dilakukan sebagai integer division.
 10 / 4 hasilnya 2 (bukan 2.5).
@@ -79,6 +81,8 @@ int main()
     return 0;
 }
 ```
+> Output
+> ![Screenshot bagian x](output/ssguided2.png)
 untuk menghitung luas dan keliling persegi panjang.
 ### kondisi
 ```c++
@@ -138,6 +142,8 @@ int main()
     return 0;
 }
 ```
+> Output
+> ![Screenshot bagian x](output/ssguided3.png)
 untuk menentukan apakah suatu hari termasuk hari kerja atau hari libur berdasarkan kode angka yang dimasukkan pengguna.
 
 ### perulangan
@@ -171,6 +177,8 @@ int main()
     return 0;
 }
 ```
+> Output
+> ![Screenshot bagian x](output/ssguided4.png)
 program ini mendemonstrasikan dua cara membuat perulangan di C++: dengan for mencetak teks sesuai jumlah yang dimasukkan dan dengan do–while mencetak teks dengan nomor urut.
 
 ### Struct   
@@ -206,6 +214,8 @@ int main() {
     return 0;
 }
 ```
+> Output
+> ![Screenshot bagian x](output/ssguided5.png)
 untuk menyimpan dan menampilkan data mahasiswa dengan bantuan struct. Struct bernama Mahasiswa dibuat dengan tiga data anggota, yaitu nama, nim, dan ipk. Di dalam fungsi main, dibuat sebuah variabel mhs1 bertipe Mahasiswa. Program meminta pengguna untuk mengisi data mulai dari nama mahasiswa dengan getline, lalu nim, dan terakhir ipk. Setelah data dimasukkan, program akan menampilkan kembali data mahasiswa tersebut berupa nama, nim, dan ipk ke layar. program ini berfungsi untuk menginput sekaligus menampilkan informasi mahasiswa dalam satu paket data.
 
 ### Test
@@ -222,6 +232,8 @@ int main()
     return 0;
 }
 ```
+> Output
+> ![Screenshot bagian x](output/ssguided6.png)
 Fungsinya untuk membaca satu karakter dari input pengguna lalu menampilkannya kembali
 
 ## Unguided
