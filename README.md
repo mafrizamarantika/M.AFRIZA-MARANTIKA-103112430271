@@ -178,7 +178,7 @@ int main()
 }
 ```
 > Output
-> ![Screenshot bagian x]()
+> ![Screenshot bagian x](output/ssguided4.png)
 program ini mendemonstrasikan dua cara membuat perulangan di C++: dengan for mencetak teks sesuai jumlah yang dimasukkan dan dengan do–while mencetak teks dengan nomor urut.
 
 ### Struct   
