@@ -272,6 +272,8 @@ int main() {
 }
 
 ```
+> Output
+> ![Screenshot bagian x](output/ssunguided1.png)
 program ini adalah kalkulator sederhana yang menghitung empat operasi dasar antara dua angka.
 
 
@@ -336,6 +338,8 @@ int main() {
     return 0;
 }
 ```
+> Output
+> ![Screenshot bagian x](output/ssunguided2.png)
 untuk mengubah angka dari 0 sampai 100 menjadi bentuk kalimat dalam bahasa Indonesia. Pertama ada dua daftar kata, yaitu kata_belasan untuk angka dari nol sampai sembilan belas dan kata_puluhan untuk angka puluhan mulai dari dua puluh.
 
 ### Soal 3
@@ -401,6 +405,8 @@ int main() {
 }
 
 ```
+> Output
+> ![Screenshot bagian x](output/ssunguided3.png)
 Program ini untuk membuat pola cermin dengan angka dan tanda bintang di tengahnya. Pertama, pengguna diminta memasukkan sebuah bilangan bulat positif sebagai ukuran pola. Jika input yang dimasukkan salah, program akan menampilkan pesan error.
 
 ## Referensi
